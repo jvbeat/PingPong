@@ -1,2 +1,2 @@
-# PingPong-p5.js
-Simple Ping Pong made in P5.js
+# PingPong.js
+https://ping-pong-one-ruby.vercel.app
